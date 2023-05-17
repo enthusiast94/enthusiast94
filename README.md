@@ -1,4 +1,4 @@
-<img  align="left" alt="coding" width="250" height="180" src="[https://res.cloudinary.com/jorge-tarifa/image/upload/v1660572206/stuff/gif_2_xcaoek.gif](https://tenor.com/es-419/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429)"/>
+<img  align="left" alt="coding" width="250" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1660572206/stuff/gif_2_xcaoek.gif"/>
 
 
 
@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jorge Rodriguez </h1>
-<h3 align="center"> Open Source Enthusiast </h3>
+<h3 align="center"> Software Developer </h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
